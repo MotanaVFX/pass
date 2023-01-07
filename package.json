@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-name/proxy-server.git"
+    "url": "https://github.com/MotanaVFX/pass"
   },
   "keywords": [
     "proxy",
